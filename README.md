@@ -25,7 +25,7 @@ Paper: [https://openreview.net/forum?id=ZHK6nBHRXw](https://openreview.net/forum
 
 This repository contains the official implementation of **Knowledge Externalization** for multimodal large language models (based on LLaVA architecture and extensions).
 
-![Knowledge Externalization Framework Overview](asset/framework_overview.png)
+![Knowledge Externalization Framework Overview](Knowledge_Ex/assets/framework_overview.png)
 
 Key components:
 - Dual-Stream Memory Tuning for externalizing knowledge into memory tokens
