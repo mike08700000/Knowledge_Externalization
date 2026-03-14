@@ -137,13 +137,10 @@ We strongly encourage you to use a **single** GPU to externalize the knowledge.
 If you find this work useful, please consider citing:
 
 ```bibtex
-@inproceedings{
-  li2026knowledge,
+@inproceedings{liknowledge,
   title={Knowledge Externalization: Reversible Unlearning and Modular Retrieval in Multimodal Large Language Models},
-  author={Jiaqi Li and Zihan You and Ruoyan Shen and Shenyu Zhang and Songlin Zhai and Yongrui Chen and Chuanyi Zhang and Jiahui Geng and Fakhri Karray and Sheng Bi and Guilin Qi},
-  booktitle={The Thirteenth International Conference on Learning Representations (ICLR)},
-  year={2026},
-  url={https://openreview.net/forum?id=ZHK6nBHRXw}
+  author={Li, Jiaqi and You, Zihan and Shen, Ruoyan and Zhang, Shenyu and Zhai, Songlin and Chen, Yongrui and Zhang, Chuanyi and Geng, Jiahui and Karray, Fakhri and Bi, Sheng and others},
+  booktitle={The Fourteenth International Conference on Learning Representations}
 }
 ```
 ---
