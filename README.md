@@ -1,9 +1,5 @@
 
 # [ICLR 2026]Knowledge Externalization: Reversible Unlearning and Modular Retrieval in Multimodal Large Language Models
-
-**Authors**: Jiaqi Li¹³*, Zihan You²*, Ruoyan Shen³⁴, Shenyu Zhang³⁴, Songlin Zhai³⁴, Yongrui Chen³⁴, Chuanyi Zhang⁸, Jiahui Geng⁶⁷, Fakhri Karray⁶, Sheng Bi⁵, Guilin Qi⁴  
-(*Equal contribution)
-
 ---
 ## Abstract
 
