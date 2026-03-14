@@ -131,9 +131,8 @@ We strongly encourage you to use a single GPU to externalize the knowledge.
 
 ## News & Updates
 
-* **Jan 26, 2026**   — Our paper **Knowledge Externalization** has been accepted by ICLR 2026! 🎉
-
-* **March 14, 2026** — Official training code for **Knowledge Externalization** is now released! 🔥 
+* **Jan 26, 2026**   — Our paper **Knowledge Externalization** has been accepted by ICLR 2026! 🎉🎉🎉
+* **March 14, 2026** — Official training code for **Knowledge Externalization** is now released! 🔥🔥🔥 
 
 ---
 
