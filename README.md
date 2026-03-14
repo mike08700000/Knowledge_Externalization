@@ -56,7 +56,7 @@ We provide a pre-configured and deeply customized conda environment package (inc
 
 ### 2. Data Preparation
 
-(Describe your dataset paths / download instructions here once ready, etc.)
+(Papare your dataset instructions here.)
 
 Example structure:
 ```
@@ -98,7 +98,7 @@ huggingface-cli download liuhaotian/llava-v1.5-7b --local-dir ./checkpoints/llav
 
 ### 4. Training / Externalization
 
-Run the main fine-tuning script with Knowledge Externalization for Mutiknowledge:
+Run the main fine-tuning script with Knowledge Externalization for **Mutiknowledge**:
 
 ```bash
 cd Knowledge_Ex
@@ -110,7 +110,7 @@ This script:
 - Externalizes specified concepts/entities
 - Saves base model (with knowledge removed) + external memory tokens
 
-Run the main fine-tuning script with Knowledge Externalization for Singleknowledge:
+Run the main fine-tuning script with Knowledge Externalization for **Singleknowledge**:
 ```bash
 cd Knowledge_Ex
 bash scripts_ex/finetune_7b_auto_singleknowledge.sh
@@ -121,7 +121,7 @@ This script:
 - Externalizes specified single concepts/entities
 - Saves base model (with knowledge removed) + external memory tokens
 
-We strongly encourage you to use a single GPU to externalize the knowledge.
+We strongly encourage you to use a **single** GPU to externalize the knowledge.
 
 ---
 
