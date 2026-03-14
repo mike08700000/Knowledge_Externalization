@@ -157,7 +157,6 @@ If you find this work useful, please consider citing:
 Built upon [LLaVA](https://github.com/haotian-liu/LLaVA) and other open-source multimodal frameworks.
 
 ## License
+Released under the [MIT License](LICENSE).
 
-[MIT License](LICENSE)
 
-```
